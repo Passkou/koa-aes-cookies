@@ -1,6 +1,6 @@
 {
   "name": "koa-aes-cookies",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A middleware for koa that can save and get cookie encrypted with AES to or from the browser.",
   "main": "dist/index.js",
   "scripts": {

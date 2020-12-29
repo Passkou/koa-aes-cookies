@@ -24,7 +24,7 @@ interface Config {
 
 declare module "koa" {
     interface BaseContext {
-        aesCookies: object
+        aesCookies: any
     }
 }
 
